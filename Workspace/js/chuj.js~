@@ -1,4 +1,0 @@
-
-var name = prompt('Monika');
-alert('Hello, ' + name);
-console.log('Hello, ' + name);
